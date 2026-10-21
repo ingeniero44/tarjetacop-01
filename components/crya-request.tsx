@@ -118,7 +118,7 @@ Si deseas solicitarla, simplemente presiona el botón que aparece abajo y sigue 
 👇 ¡Presiona el botón de abajo y comienza tu solicitud!.
                   </h2>
                   <a
-                    href="https://tinyurl.com/4x5r3u8d"
+                    href="https://lix.li/iQsbR7"
                     className="mt-8 inline-flex h-12 w-full max-w-xs items-center justify-center gap-2 rounded-xl bg-blue-700 text-base font-semibold text-white shadow-lg shadow-blue-700/15 transition hover:bg-blue-800 focus-visible:outline-none focus-visible:ring-4 focus-visible:ring-blue-500/30"
                   >
                     Solicitar
